@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,Desconectados 2020 
-#EXTGRP:DESCONECTADOS (2020)
-http://xdgo.live:8080/movie/27_vVarela_h/VpnL8YOhwv/40035.mkv
 #EXTINF:0,Shazam 2019 
 #EXTGRP:SHAZAM (2019)
 http://xdgo.live:8080/movie/27_vVarela_h/VpnL8YOhwv/5123.mkv
@@ -2042,6 +2039,9 @@ http://xdgo.live:8080/series/27_vVarela_h/VpnL8YOhwv/13064.mp4
 #EXTINF:0,Dragon Ball Super S01 E102 
 #EXTGRP:DRAGON BALL SUPER
 http://xdgo.live:8080/series/27_vVarela_h/VpnL8YOhwv/13065.mp4
+#EXTINF:0,Dragon Ball Super S01 E103 
+#EXTGRP:DRAGON BALL SUPER
+http://xdgo.live:8080/series/27_vVarela_h/VpnL8YOhwv/13066.mp4
 #EXTINF:0,Driven New 2019 
 #EXTGRP:DRIVEN NEW (2019)
 http://xdgo.live:8080/movie/27_vVarela_h/VpnL8YOhwv/56462.mkv
