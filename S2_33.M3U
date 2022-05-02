@@ -1,10 +1,274 @@
 #EXTM3U
+#EXTINF:0,UNIVERSAL PREMIERE HD DUALAUDIO 
+#EXTGRP:CANALES DUAL-AUDIO
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/29533
+#EXTINF:0,TNT SERIES HD DUALAUDIO 
+#EXTGRP:CANALES DUAL-AUDIO
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/29544
+#EXTINF:0,A3 SERIES LQ 
+#EXTGRP:CANALES LITE
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/29659
+#EXTINF:0,UNIVERSAL PREMIERE LQ 
+#EXTGRP:CANALES LITE
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/29598
+#EXTINF:0,TNT SERIES LQ 
+#EXTGRP:CANALES LITE
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/29613
+#EXTINF:0,Chernobyl S01 E01 
+#EXTGRP:CHERNOBYL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12158.mkv
+#EXTINF:0,Chernobyl S01 E02 
+#EXTGRP:CHERNOBYL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12159.mkv
+#EXTINF:0,Chernobyl S01 E03 
+#EXTGRP:CHERNOBYL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12160.mkv
+#EXTINF:0,Chernobyl S01 E04 
+#EXTGRP:CHERNOBYL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12161.mkv
+#EXTINF:0,Chernobyl S01 E05 
+#EXTGRP:CHERNOBYL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12162.mkv
+#EXTINF:0,A3 SERIES FHD 
+#EXTGRP:CINEMA FHD
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/808
+#EXTINF:0,TNT SERIES FHD 
+#EXTGRP:CINEMA FHD
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/766
+#EXTINF:0,UNIVERSAL PREMIERE FHD 
+#EXTGRP:CINEMA FHD
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/788
+#EXTINF:0,A3 SERIES HD 
+#EXTGRP:CINEMA HD HQ
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/947
+#EXTINF:0,A3 SERIES HQ 
+#EXTGRP:CINEMA HD HQ
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/957
+#EXTINF:0,TNT SERIES HD 
+#EXTGRP:CINEMA HD HQ
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/854
+#EXTINF:0,TNT SERIES HQ 
+#EXTGRP:CINEMA HD HQ
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/884
+#EXTINF:0,UNIVERSAL PREMIERE HD 
+#EXTGRP:CINEMA HD HQ
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/932
+#EXTINF:0,UNIVERSAL PREMIERE HQ 
+#EXTGRP:CINEMA HD HQ
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/869
+#EXTINF:0,Cobra Kai S01 E01 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12323.mp4
+#EXTINF:0,Cobra Kai S01 E02 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12324.mp4
+#EXTINF:0,Cobra Kai S01 E03 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12325.mp4
+#EXTINF:0,Cobra Kai S01 E04 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12326.mp4
+#EXTINF:0,Cobra Kai S01 E05 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12327.mp4
+#EXTINF:0,Cobra Kai S01 E06 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12328.mkv
+#EXTINF:0,Cobra Kai S01 E07 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12329.mkv
+#EXTINF:0,Cobra Kai S01 E08 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12330.mkv
+#EXTINF:0,Cobra Kai S01 E09 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12331.mkv
+#EXTINF:0,Cobra Kai S01 E10 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12332.mkv
+#EXTINF:0,Cobra Kai S02 E01 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12333.mkv
+#EXTINF:0,Cobra Kai S02 E02 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12334.mkv
+#EXTINF:0,Cobra Kai S02 E03 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12335.mkv
+#EXTINF:0,Cobra Kai S02 E04 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12336.mkv
+#EXTINF:0,Cobra Kai S02 E05 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12337.mkv
+#EXTINF:0,Cobra Kai S02 E06 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12338.mkv
+#EXTINF:0,Cobra Kai S02 E07 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12339.mkv
+#EXTINF:0,Cobra Kai S02 E08 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12340.mkv
+#EXTINF:0,Cobra Kai S02 E09 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12341.mkv
+#EXTINF:0,Cobra Kai S02 E10 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12342.mkv
+#EXTINF:0,Cobra Kai S03 E01 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40921.mkv
+#EXTINF:0,Cobra Kai S03 E02 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40922.mkv
+#EXTINF:0,Cobra Kai S03 E03 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40923.mkv
+#EXTINF:0,Cobra Kai S03 E04 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40924.mkv
+#EXTINF:0,Cobra Kai S03 E05 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40925.mkv
+#EXTINF:0,Cobra Kai S03 E06 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40926.mkv
+#EXTINF:0,Cobra Kai S03 E07 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40927.mkv
+#EXTINF:0,Cobra Kai S03 E08 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40928.mkv
+#EXTINF:0,Cobra Kai S03 E09 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40929.mkv
+#EXTINF:0,Cobra Kai S03 E10 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40930.mkv
+#EXTINF:0,Cobra Kai S04 E01 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/58490.mkv
+#EXTINF:0,Cobra Kai S04 E02 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/58491.mkv
+#EXTINF:0,Cobra Kai S04 E03 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/58492.mkv
+#EXTINF:0,Cobra Kai S04 E04 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/58493.mkv
+#EXTINF:0,Cobra Kai S04 E05 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/58494.mkv
+#EXTINF:0,Cobra Kai S04 E06 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/58495.mkv
+#EXTINF:0,Cobra Kai S04 E07 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/58496.mkv
+#EXTINF:0,Cobra Kai S04 E08 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/58497.mkv
+#EXTINF:0,Cobra Kai S04 E09 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/58498.mkv
+#EXTINF:0,Cobra Kai S04 E10 
+#EXTGRP:COBRA KAI
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/58499.mkv
+#EXTINF:0,Dark S01 E01 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12727.mkv
+#EXTINF:0,Dark S01 E02 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12728.mkv
+#EXTINF:0,Dark S01 E03 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12729.mkv
+#EXTINF:0,Dark S01 E04 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12730.mkv
+#EXTINF:0,Dark S01 E05 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12731.mkv
+#EXTINF:0,Dark S01 E06 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12732.mkv
+#EXTINF:0,Dark S01 E07 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12733.mkv
+#EXTINF:0,Dark S01 E08 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12734.mkv
+#EXTINF:0,Dark S01 E09 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12735.mkv
+#EXTINF:0,Dark S01 E10 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12736.mkv
+#EXTINF:0,Dark S02 E01 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12737.mkv
+#EXTINF:0,Dark S02 E02 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12738.mkv
+#EXTINF:0,Dark S02 E03 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12739.mkv
+#EXTINF:0,Dark S02 E04 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12740.mkv
+#EXTINF:0,Dark S02 E05 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12741.mkv
+#EXTINF:0,Dark S02 E06 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12742.mkv
+#EXTINF:0,Dark S02 E07 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12743.mkv
+#EXTINF:0,Dark S02 E08 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12744.mkv
+#EXTINF:0,Dark S03 E01 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29730.mp4
+#EXTINF:0,Dark S03 E02 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29731.mp4
+#EXTINF:0,Dark S03 E03 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29732.mp4
+#EXTINF:0,Dark S03 E04 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29733.mp4
+#EXTINF:0,Dark S03 E05 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29734.mp4
+#EXTINF:0,Dark S03 E06 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29735.mp4
+#EXTINF:0,Dark S03 E07 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29736.mp4
+#EXTINF:0,Dark S03 E08 
+#EXTGRP:DARK
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29737.mp4
+#EXTINF:0,Dracula S01 E01 
+#EXTGRP:DRACULA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21118.mkv
 #EXTINF:0,Dracula S01 E02 
 #EXTGRP:DRACULA
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21119.mkv
 #EXTINF:0,Dracula S01 E03 
 #EXTGRP:DRACULA
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21120.mkv
+#EXTINF:0,ES A3S ATRESERIES HD 
+#EXTGRP:ESPANA
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/87
+#EXTINF:0,ES MOVISTAR SERIES HD 
+#EXTGRP:ESPANA
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/121
 #EXTINF:0,Falcon y el Soldado del Invierno S01 E01 
 #EXTGRP:FALCON Y EL SOLDADO DE INVIERN
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/42784.mkv
@@ -230,6 +494,273 @@ http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26907.mkv
 #EXTINF:0,Fear the Walking Dead S05 E16 
 #EXTGRP:FEAR THE WALKING DEAD
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26908.mkv
+#EXTINF:0,Game of Thrones S01 E01 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6124.avi
+#EXTINF:0,Game of Thrones S01 E02 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6125.avi
+#EXTINF:0,Game of Thrones S01 E03 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6126.avi
+#EXTINF:0,Game of Thrones S01 E04 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6127.avi
+#EXTINF:0,Game of Thrones S01 E05 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6128.avi
+#EXTINF:0,Game of Thrones S01 E06 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6129.avi
+#EXTINF:0,Game of Thrones S01 E07 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6130.avi
+#EXTINF:0,Game of Thrones S01 E08 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6131.avi
+#EXTINF:0,Game of Thrones S01 E09 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6132.avi
+#EXTINF:0,Game of Thrones S01 E10 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6133.avi
+#EXTINF:0,Game of Thrones S02 E01 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6134.avi
+#EXTINF:0,Game of Thrones S02 E02 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6135.avi
+#EXTINF:0,Game of Thrones S02 E03 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6136.avi
+#EXTINF:0,Game of Thrones S02 E04 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6137.avi
+#EXTINF:0,Game of Thrones S02 E05 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6138.avi
+#EXTINF:0,Game of Thrones S02 E06 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6139.avi
+#EXTINF:0,Game of Thrones S02 E07 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6140.avi
+#EXTINF:0,Game of Thrones S02 E08 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6141.avi
+#EXTINF:0,Game of Thrones S02 E09 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6142.avi
+#EXTINF:0,Game of Thrones S02 E10 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6143.avi
+#EXTINF:0,Game of Thrones S03 E01 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6144.avi
+#EXTINF:0,Game of Thrones S03 E02 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6145.avi
+#EXTINF:0,Game of Thrones S03 E03 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6146.avi
+#EXTINF:0,Game of Thrones S03 E04 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6147.avi
+#EXTINF:0,Game of Thrones S03 E05 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6148.avi
+#EXTINF:0,Game of Thrones S03 E06 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6149.avi
+#EXTINF:0,Game of Thrones S03 E07 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6150.avi
+#EXTINF:0,Game of Thrones S03 E08 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6151.avi
+#EXTINF:0,Game of Thrones S03 E09 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6152.avi
+#EXTINF:0,Game of Thrones S03 E10 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6153.avi
+#EXTINF:0,Game of Thrones S04 E01 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6154.avi
+#EXTINF:0,Game of Thrones S04 E02 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6155.avi
+#EXTINF:0,Game of Thrones S04 E03 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6156.avi
+#EXTINF:0,Game of Thrones S04 E04 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6157.avi
+#EXTINF:0,Game of Thrones S04 E05 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6158.avi
+#EXTINF:0,Game of Thrones S04 E06 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6159.avi
+#EXTINF:0,Game of Thrones S04 E07 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6160.avi
+#EXTINF:0,Game of Thrones S04 E08 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6161.avi
+#EXTINF:0,Game of Thrones S04 E09 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6162.avi
+#EXTINF:0,Game of Thrones S04 E10 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6163.avi
+#EXTINF:0,Game of Thrones S05 E01 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6164.mp4
+#EXTINF:0,Game of Thrones S05 E02 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6165.mp4
+#EXTINF:0,Game of Thrones S05 E03 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6166.mp4
+#EXTINF:0,Game of Thrones S05 E04 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6167.mp4
+#EXTINF:0,Game of Thrones S05 E05 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6168.mp4
+#EXTINF:0,Game of Thrones S05 E06 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6169.mp4
+#EXTINF:0,Game of Thrones S05 E07 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6170.mp4
+#EXTINF:0,Game of Thrones S05 E08 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6171.mp4
+#EXTINF:0,Game of Thrones S05 E09 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6172.mp4
+#EXTINF:0,Game of Thrones S05 E10 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6173.mp4
+#EXTINF:0,Game of Thrones S06 E01 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6174.mkv
+#EXTINF:0,Game of Thrones S06 E02 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6175.mkv
+#EXTINF:0,Game of Thrones S06 E03 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6176.mkv
+#EXTINF:0,Game of Thrones S06 E04 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6177.mkv
+#EXTINF:0,Game of Thrones S06 E05 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6178.mkv
+#EXTINF:0,Game of Thrones S06 E06 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6179.mkv
+#EXTINF:0,Game of Thrones S06 E07 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6180.mkv
+#EXTINF:0,Game of Thrones S06 E08 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6181.mkv
+#EXTINF:0,Game of Thrones S06 E09 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6182.mkv
+#EXTINF:0,Game of Thrones S06 E10 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6183.mkv
+#EXTINF:0,Game of Thrones S07 E01 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6191.mkv
+#EXTINF:0,Game of Thrones S07 E02 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6192.mkv
+#EXTINF:0,Game of Thrones S07 E03 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6193.mkv
+#EXTINF:0,Game of Thrones S07 E04 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6194.mkv
+#EXTINF:0,Game of Thrones S07 E05 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6195.mkv
+#EXTINF:0,Game of Thrones S07 E06 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6196.mkv
+#EXTINF:0,Game of Thrones S07 E07 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6197.mkv
+#EXTINF:0,Game of Thrones S08 E01 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6198.mkv
+#EXTINF:0,Game of Thrones S08 E02 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6199.mkv
+#EXTINF:0,Game of Thrones S08 E03 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6200.mkv
+#EXTINF:0,Game of Thrones S08 E04 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6201.mkv
+#EXTINF:0,Game of Thrones S08 E05 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6202.mkv
+#EXTINF:0,Game of Thrones S08 E06 
+#EXTGRP:GAME OF THRONES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6203.mkv
+#EXTINF:0,Jack Ryan S01 E01 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6914.mkv
+#EXTINF:0,Jack Ryan S01 E02 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6915.mkv
+#EXTINF:0,Jack Ryan S01 E03 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6916.mkv
+#EXTINF:0,Jack Ryan S01 E04 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6917.mkv
+#EXTINF:0,Jack Ryan S01 E05 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6918.mkv
+#EXTINF:0,Jack Ryan S01 E06 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6919.mkv
+#EXTINF:0,Jack Ryan S01 E07 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6920.mkv
+#EXTINF:0,Jack Ryan S01 E08 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6921.mkv
+#EXTINF:0,Jack Ryan S02 E01 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22282.mkv
+#EXTINF:0,Jack Ryan S02 E02 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22283.mkv
+#EXTINF:0,Jack Ryan S02 E03 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22284.mkv
+#EXTINF:0,Jack Ryan S02 E04 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22285.mkv
+#EXTINF:0,Jack Ryan S02 E05 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22286.mkv
+#EXTINF:0,Jack Ryan S02 E06 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22287.mkv
+#EXTINF:0,Jack Ryan S02 E07 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22288.mkv
+#EXTINF:0,Jack Ryan S02 E08 
+#EXTGRP:JACK RYAN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22289.mkv
 #EXTINF:0,La cosa del pantano S01 E01 
 #EXTGRP:LA COSA DEL PANTANO
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22156.mp4
@@ -308,6 +839,306 @@ http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/49511.mkv
 #EXTINF:0,Loki S01 E06 
 #EXTGRP:LOKI
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/49912.mkv
+#EXTINF:0,Los 100 S01 E01 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11064.mkv
+#EXTINF:0,Los 100 S01 E02 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11065.mkv
+#EXTINF:0,Los 100 S01 E03 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11066.mkv
+#EXTINF:0,Los 100 S01 E04 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11067.mkv
+#EXTINF:0,Los 100 S01 E05 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11068.mkv
+#EXTINF:0,Los 100 S01 E06 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11069.mkv
+#EXTINF:0,Los 100 S01 E07 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11070.mkv
+#EXTINF:0,Los 100 S01 E08 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11071.mkv
+#EXTINF:0,Los 100 S01 E09 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11072.mkv
+#EXTINF:0,Los 100 S01 E10 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11073.mkv
+#EXTINF:0,Los 100 S01 E11 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11074.mkv
+#EXTINF:0,Los 100 S01 E12 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11075.mkv
+#EXTINF:0,Los 100 S01 E13 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11076.mkv
+#EXTINF:0,Los 100 S02 E01 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11077.mkv
+#EXTINF:0,Los 100 S02 E02 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11078.mkv
+#EXTINF:0,Los 100 S02 E03 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11079.mkv
+#EXTINF:0,Los 100 S02 E04 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11080.mkv
+#EXTINF:0,Los 100 S02 E05 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11081.mkv
+#EXTINF:0,Los 100 S02 E06 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11082.mkv
+#EXTINF:0,Los 100 S02 E07 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11083.mkv
+#EXTINF:0,Los 100 S02 E08 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11084.mkv
+#EXTINF:0,Los 100 S02 E09 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11085.mkv
+#EXTINF:0,Los 100 S02 E10 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11086.mkv
+#EXTINF:0,Los 100 S02 E11 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11087.mkv
+#EXTINF:0,Los 100 S02 E12 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11088.mkv
+#EXTINF:0,Los 100 S02 E13 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11089.mkv
+#EXTINF:0,Los 100 S02 E14 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11090.mkv
+#EXTINF:0,Los 100 S02 E15 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11091.mkv
+#EXTINF:0,Los 100 S02 E16 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11092.mkv
+#EXTINF:0,Los 100 S03 E01 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11093.mkv
+#EXTINF:0,Los 100 S03 E02 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11094.mkv
+#EXTINF:0,Los 100 S03 E03 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11095.mkv
+#EXTINF:0,Los 100 S03 E04 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11096.mkv
+#EXTINF:0,Los 100 S03 E05 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11097.mkv
+#EXTINF:0,Los 100 S03 E06 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11098.mkv
+#EXTINF:0,Los 100 S03 E07 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11099.mkv
+#EXTINF:0,Los 100 S03 E08 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11100.mkv
+#EXTINF:0,Los 100 S03 E09 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11101.mkv
+#EXTINF:0,Los 100 S03 E10 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11102.mkv
+#EXTINF:0,Los 100 S03 E11 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11103.mkv
+#EXTINF:0,Los 100 S03 E12 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11104.mkv
+#EXTINF:0,Los 100 S03 E13 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11105.mkv
+#EXTINF:0,Los 100 S03 E14 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11106.mkv
+#EXTINF:0,Los 100 S03 E15 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11107.mkv
+#EXTINF:0,Los 100 S03 E16 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11108.mkv
+#EXTINF:0,Los 100 S04 E01 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11109.mkv
+#EXTINF:0,Los 100 S04 E02 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11110.mkv
+#EXTINF:0,Los 100 S04 E03 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11111.mkv
+#EXTINF:0,Los 100 S04 E04 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11112.mkv
+#EXTINF:0,Los 100 S04 E05 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11113.mkv
+#EXTINF:0,Los 100 S04 E06 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11114.mkv
+#EXTINF:0,Los 100 S04 E07 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11115.mkv
+#EXTINF:0,Los 100 S04 E08 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11116.mkv
+#EXTINF:0,Los 100 S04 E09 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11117.mkv
+#EXTINF:0,Los 100 S04 E10 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11118.mkv
+#EXTINF:0,Los 100 S04 E11 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11119.mkv
+#EXTINF:0,Los 100 S04 E12 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11120.mkv
+#EXTINF:0,Los 100 S04 E13 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11121.mkv
+#EXTINF:0,Los 100 S05 E01 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11122.mp4
+#EXTINF:0,Los 100 S05 E02 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11123.mkv
+#EXTINF:0,Los 100 S05 E03 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11124.mp4
+#EXTINF:0,Los 100 S05 E04 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11125.mp4
+#EXTINF:0,Los 100 S05 E05 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11126.mp4
+#EXTINF:0,Los 100 S05 E06 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11127.mkv
+#EXTINF:0,Los 100 S05 E07 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11128.mkv
+#EXTINF:0,Los 100 S05 E08 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11129.mp4
+#EXTINF:0,Los 100 S05 E09 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11130.mp4
+#EXTINF:0,Los 100 S05 E10 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11131.mkv
+#EXTINF:0,Los 100 S05 E11 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11132.mp4
+#EXTINF:0,Los 100 S05 E12 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11133.mp4
+#EXTINF:0,Los 100 S05 E13 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11134.mp4
+#EXTINF:0,Los 100 S06 E01 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11135.mkv
+#EXTINF:0,Los 100 S06 E02 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11136.mkv
+#EXTINF:0,Los 100 S06 E03 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11137.mkv
+#EXTINF:0,Los 100 S06 E04 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11138.mkv
+#EXTINF:0,Los 100 S06 E05 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11139.mkv
+#EXTINF:0,Los 100 S06 E06 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11140.mkv
+#EXTINF:0,Los 100 S06 E07 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11141.mkv
+#EXTINF:0,Los 100 S06 E08 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11142.mkv
+#EXTINF:0,Los 100 S06 E09 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11143.mkv
+#EXTINF:0,Los 100 S06 E10 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11144.mkv
+#EXTINF:0,Los 100 S06 E11 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11145.mkv
+#EXTINF:0,Los 100 S06 E12 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22307.mkv
+#EXTINF:0,Los 100 S06 E13 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22308.mkv
+#EXTINF:0,Los 100 S07 E01 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41451.mkv
+#EXTINF:0,Los 100 S07 E02 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41452.mkv
+#EXTINF:0,Los 100 S07 E03 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41453.mkv
+#EXTINF:0,Los 100 S07 E04 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41454.mkv
+#EXTINF:0,Los 100 S07 E05 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41455.mkv
+#EXTINF:0,Los 100 S07 E06 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41456.mkv
+#EXTINF:0,Los 100 S07 E07 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41457.mkv
+#EXTINF:0,Los 100 S07 E08 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41458.mkv
+#EXTINF:0,Los 100 S07 E09 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41459.mkv
+#EXTINF:0,Los 100 S07 E10 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41460.mkv
+#EXTINF:0,Los 100 S07 E11 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41461.mkv
+#EXTINF:0,Los 100 S07 E12 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41462.mkv
+#EXTINF:0,Los 100 S07 E13 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41463.mkv
+#EXTINF:0,Los 100 S07 E14 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41464.mkv
+#EXTINF:0,Los 100 S07 E15 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41465.mkv
+#EXTINF:0,Los 100 S07 E16 
+#EXTGRP:LOS 100
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41466.mkv
 #EXTINF:0,Los Visitantes S01 E01 
 #EXTGRP:LOS VISITANTES
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41473.mkv
@@ -323,6 +1154,771 @@ http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41476.mkv
 #EXTINF:0,Los Visitantes S01 E05 
 #EXTGRP:LOS VISITANTES
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41477.mkv
+#EXTINF:0,Lucifer S01 E01 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8250.mp4
+#EXTINF:0,Lucifer S01 E02 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8249.mp4
+#EXTINF:0,Lucifer S01 E03 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8261.mp4
+#EXTINF:0,Lucifer S01 E04 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8260.mp4
+#EXTINF:0,Lucifer S01 E05 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8259.mp4
+#EXTINF:0,Lucifer S01 E06 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8258.mp4
+#EXTINF:0,Lucifer S01 E07 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8257.mp4
+#EXTINF:0,Lucifer S01 E08 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8256.mp4
+#EXTINF:0,Lucifer S01 E09 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8255.mp4
+#EXTINF:0,Lucifer S01 E10 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8254.mp4
+#EXTINF:0,Lucifer S01 E11 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8253.mp4
+#EXTINF:0,Lucifer S01 E12 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8252.mp4
+#EXTINF:0,Lucifer S01 E13 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8251.mp4
+#EXTINF:0,Lucifer S02 E01 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8271.mkv
+#EXTINF:0,Lucifer S02 E02 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8279.mkv
+#EXTINF:0,Lucifer S02 E03 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8278.mkv
+#EXTINF:0,Lucifer S02 E04 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8277.mkv
+#EXTINF:0,Lucifer S02 E05 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8276.mkv
+#EXTINF:0,Lucifer S02 E06 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8275.mkv
+#EXTINF:0,Lucifer S02 E07 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8274.mkv
+#EXTINF:0,Lucifer S02 E08 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8273.mkv
+#EXTINF:0,Lucifer S02 E09 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8272.mkv
+#EXTINF:0,Lucifer S02 E10 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8270.mkv
+#EXTINF:0,Lucifer S02 E11 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8269.mkv
+#EXTINF:0,Lucifer S02 E12 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8268.mkv
+#EXTINF:0,Lucifer S02 E13 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8267.mkv
+#EXTINF:0,Lucifer S02 E14 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8266.mkv
+#EXTINF:0,Lucifer S02 E15 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8265.mkv
+#EXTINF:0,Lucifer S02 E16 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8264.mkv
+#EXTINF:0,Lucifer S02 E17 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8263.mkv
+#EXTINF:0,Lucifer S02 E18 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8262.mkv
+#EXTINF:0,Lucifer S03 E01 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8294.mkv
+#EXTINF:0,Lucifer S03 E02 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8291.mkv
+#EXTINF:0,Lucifer S03 E03 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8295.mkv
+#EXTINF:0,Lucifer S03 E04 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8296.mkv
+#EXTINF:0,Lucifer S03 E05 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8297.mkv
+#EXTINF:0,Lucifer S03 E06 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8298.mkv
+#EXTINF:0,Lucifer S03 E07 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8299.mkv
+#EXTINF:0,Lucifer S03 E08 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8300.mkv
+#EXTINF:0,Lucifer S03 E09 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8301.mkv
+#EXTINF:0,Lucifer S03 E10 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8302.mkv
+#EXTINF:0,Lucifer S03 E11 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8303.mkv
+#EXTINF:0,Lucifer S03 E12 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8304.mkv
+#EXTINF:0,Lucifer S03 E13 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8305.mkv
+#EXTINF:0,Lucifer S03 E14 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8292.mkv
+#EXTINF:0,Lucifer S03 E15 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8293.mkv
+#EXTINF:0,Lucifer S03 E16 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8280.mkv
+#EXTINF:0,Lucifer S03 E17 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8281.mkv
+#EXTINF:0,Lucifer S03 E18 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8282.mkv
+#EXTINF:0,Lucifer S03 E19 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8283.mkv
+#EXTINF:0,Lucifer S03 E20 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8284.mkv
+#EXTINF:0,Lucifer S03 E21 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8285.mkv
+#EXTINF:0,Lucifer S03 E22 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8286.mkv
+#EXTINF:0,Lucifer S03 E23 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8287.mkv
+#EXTINF:0,Lucifer S03 E24 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8288.mkv
+#EXTINF:0,Lucifer S03 E25 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8289.mkv
+#EXTINF:0,Lucifer S03 E26 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8290.mkv
+#EXTINF:0,Lucifer S04 E01 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8315.mkv
+#EXTINF:0,Lucifer S04 E02 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8314.mkv
+#EXTINF:0,Lucifer S04 E03 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8313.mkv
+#EXTINF:0,Lucifer S04 E04 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8312.mkv
+#EXTINF:0,Lucifer S04 E05 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8311.mkv
+#EXTINF:0,Lucifer S04 E06 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8309.mkv
+#EXTINF:0,Lucifer S04 E07 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8308.mkv
+#EXTINF:0,Lucifer S04 E08 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8307.mkv
+#EXTINF:0,Lucifer S04 E09 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8306.mkv
+#EXTINF:0,Lucifer S04 E10 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8310.mkv
+#EXTINF:0,Lucifer S05 E01 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/30282.mkv
+#EXTINF:0,Lucifer S05 E02 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/30283.mkv
+#EXTINF:0,Lucifer S05 E03 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/30284.mkv
+#EXTINF:0,Lucifer S05 E04 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/30285.mkv
+#EXTINF:0,Lucifer S05 E05 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/30286.mkv
+#EXTINF:0,Lucifer S05 E06 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/30287.mkv
+#EXTINF:0,Lucifer S05 E07 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/30288.mkv
+#EXTINF:0,Lucifer S05 E08 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/30289.mkv
+#EXTINF:0,Lucifer S06 E01 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55369.mkv
+#EXTINF:0,Lucifer S06 E02 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55370.mkv
+#EXTINF:0,Lucifer S06 E03 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55371.mkv
+#EXTINF:0,Lucifer S06 E04 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55372.mkv
+#EXTINF:0,Lucifer S06 E05 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55373.mkv
+#EXTINF:0,Lucifer S06 E06 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55374.mkv
+#EXTINF:0,Lucifer S06 E07 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55375.mkv
+#EXTINF:0,Lucifer S06 E08 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55376.mkv
+#EXTINF:0,Lucifer S06 E09 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55377.mkv
+#EXTINF:0,Lucifer S06 E10 
+#EXTGRP:LUCIFER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55378.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E01 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8480.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E02 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8481.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E03 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8482.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E04 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8483.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E05 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8484.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E06 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8485.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E07 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8486.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E08 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8487.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E09 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8488.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E10 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8489.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E11 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8490.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E12 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8491.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E13 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8492.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E14 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8493.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E15 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8494.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E16 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8495.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E17 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8496.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E18 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8497.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E19 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8498.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E20 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8499.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E21 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8500.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S01 E22 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8501.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E01 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8502.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E02 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8503.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E03 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8504.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E04 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8505.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E05 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8506.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E06 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8507.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E07 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8508.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E08 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8509.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E09 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8510.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E10 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8511.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E11 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8512.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E12 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8513.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E13 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8514.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E14 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8515.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E15 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8516.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E16 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8517.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E17 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8518.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E18 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8519.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E19 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8520.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E20 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8521.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E21 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8522.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S02 E22 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8523.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E01 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8524.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E02 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8525.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E03 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8526.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E04 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8527.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E05 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8528.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E06 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8529.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E07 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8530.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E08 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8531.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E09 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8532.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E10 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8533.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E11 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8534.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E12 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8535.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E13 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8536.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E14 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8537.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E15 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8538.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E16 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8539.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E17 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8540.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E18 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8541.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E19 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8542.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E20 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8543.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E21 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8544.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S03 E22 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8545.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E01 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8546.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E02 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8547.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E03 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8548.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E04 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8549.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E05 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8550.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E06 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8551.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E07 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8552.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E08 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8553.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E09 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8554.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E10 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8555.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E11 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8556.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E12 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8557.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E13 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8558.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E14 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8559.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E15 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8560.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E16 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8561.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E17 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8562.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E18 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8563.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E19 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8564.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E20 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8565.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E21 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8566.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S04 E22 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8567.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E01 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8568.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E02 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8569.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E03 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8570.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E04 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8571.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E05 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8572.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E06 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8573.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E07 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8574.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E08 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8575.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E09 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8576.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E10 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8577.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E11 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8578.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E12 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8579.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E13 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8580.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E14 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8581.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E15 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8582.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E16 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8583.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E17 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8584.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E18 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8585.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E19 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8586.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E20 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8587.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E21 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8588.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S05 E22 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8589.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E01 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29095.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E02 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29096.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E03 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29086.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E04 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29087.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E05 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29088.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E06 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29089.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E07 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29090.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E08 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29097.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E09 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29091.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E10 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29092.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E11 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29098.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E12 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29093.mkv
+#EXTINF:0,Marvels Agentes de SHIELD S06 E13 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29094.mkv
+#EXTINF:0,Marvel  The Punisher S01 E01 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11354.mp4
+#EXTINF:0,Marvel  The Punisher S01 E02 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11355.mp4
+#EXTINF:0,Marvel  The Punisher S01 E03 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11356.mp4
+#EXTINF:0,Marvel  The Punisher S01 E04 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11357.mp4
+#EXTINF:0,Marvel  The Punisher S01 E05 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11358.mp4
+#EXTINF:0,Marvel  The Punisher S01 E06 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11359.mp4
+#EXTINF:0,Marvel  The Punisher S01 E07 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11360.mp4
+#EXTINF:0,Marvel  The Punisher S01 E08 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11361.mkv
+#EXTINF:0,Marvel  The Punisher S01 E09 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11362.mp4
+#EXTINF:0,Marvel  The Punisher S01 E10 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11363.mp4
+#EXTINF:0,Marvel  The Punisher S01 E11 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11364.mp4
+#EXTINF:0,Marvel  The Punisher S01 E12 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11365.mp4
+#EXTINF:0,Marvel  The Punisher S01 E13 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11366.mp4
+#EXTINF:0,Marvel  The Punisher S02 E01 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11367.mp4
+#EXTINF:0,Marvel  The Punisher S02 E02 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11368.mp4
+#EXTINF:0,Marvel  The Punisher S02 E03 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11369.mp4
+#EXTINF:0,Marvel  The Punisher S02 E04 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11370.mp4
+#EXTINF:0,Marvel  The Punisher S02 E05 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11371.mp4
+#EXTINF:0,Marvel  The Punisher S02 E06 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11372.mp4
+#EXTINF:0,Marvel  The Punisher S02 E07 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11373.mp4
+#EXTINF:0,Marvel  The Punisher S02 E08 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11374.mp4
+#EXTINF:0,Marvel  The Punisher S02 E09 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11375.mp4
+#EXTINF:0,Marvel  The Punisher S02 E10 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11376.mp4
+#EXTINF:0,Marvel  The Punisher S02 E11 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11377.mp4
+#EXTINF:0,Marvel  The Punisher S02 E12 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11378.mp4
+#EXTINF:0,Marvel  The Punisher S02 E13 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11379.mp4
+#EXTINF:0,Marvels Capa y Punal S01 E01 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12307.mkv
+#EXTINF:0,Marvels Capa y Punal S01 E02 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12308.mkv
+#EXTINF:0,Marvels Capa y Punal S01 E03 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12309.mkv
+#EXTINF:0,Marvels Capa y Punal S01 E04 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12310.mkv
+#EXTINF:0,Marvels Capa y Punal S01 E05 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12311.mkv
+#EXTINF:0,Marvels Capa y Punal S01 E06 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12312.mkv
+#EXTINF:0,Marvels Capa y Punal S01 E07 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12313.mkv
+#EXTINF:0,Marvels Capa y Punal S01 E08 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12314.mkv
+#EXTINF:0,Marvels Capa y Punal S01 E09 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12315.mkv
+#EXTINF:0,Marvels Capa y Punal S01 E10 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12316.mkv
+#EXTINF:0,Marvels Capa y Punal S02 E01 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12317.mkv
+#EXTINF:0,Marvels Capa y Punal S02 E02 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12318.mkv
+#EXTINF:0,Marvels Capa y Punal S02 E03 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12319.mkv
+#EXTINF:0,Marvels Capa y Punal S02 E04 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12320.mkv
+#EXTINF:0,Marvels Capa y Punal S02 E05 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12321.mkv
+#EXTINF:0,Marvels Capa y Punal S02 E06 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12322.mkv
+#EXTINF:0,Marvels Capa y Punal S02 E07 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29209.mkv
+#EXTINF:0,Marvels Capa y Punal S02 E08 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29210.mkv
+#EXTINF:0,Marvels Capa y Punal S02 E09 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29211.mkv
+#EXTINF:0,Marvels Capa y Punal S02 E10 
+#EXTGRP:MARVEL
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29212.mkv
+#EXTINF:0,MX A3 Series HD 
+#EXTGRP:MEXICO
+http://xdgo.live:8080/33_ndrscamilo_a/NJkcj5JLTX/209
 #EXTINF:0,Soulmates S01 E01 
 #EXTGRP:SOULMATES
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41467.mkv
@@ -341,6 +1937,81 @@ http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41471.mkv
 #EXTINF:0,Soulmates S01 E06 
 #EXTGRP:SOULMATES
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41472.mkv
+#EXTINF:0,Stranger Things S01 E01 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10739.mkv
+#EXTINF:0,Stranger Things S01 E02 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10744.mkv
+#EXTINF:0,Stranger Things S01 E03 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10740.mkv
+#EXTINF:0,Stranger Things S01 E04 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10741.mkv
+#EXTINF:0,Stranger Things S01 E05 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10745.mkv
+#EXTINF:0,Stranger Things S01 E06 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10742.mkv
+#EXTINF:0,Stranger Things S01 E07 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10743.mkv
+#EXTINF:0,Stranger Things S01 E08 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10746.mkv
+#EXTINF:0,Stranger Things S02 E01 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10747.mkv
+#EXTINF:0,Stranger Things S02 E02 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10748.mkv
+#EXTINF:0,Stranger Things S02 E03 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10749.mkv
+#EXTINF:0,Stranger Things S02 E04 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10750.mkv
+#EXTINF:0,Stranger Things S02 E05 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10751.mkv
+#EXTINF:0,Stranger Things S02 E06 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10752.mkv
+#EXTINF:0,Stranger Things S02 E07 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10753.mkv
+#EXTINF:0,Stranger Things S02 E08 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10754.mkv
+#EXTINF:0,Stranger Things S02 E09 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10755.mkv
+#EXTINF:0,Stranger Things S03 E01 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10756.mkv
+#EXTINF:0,Stranger Things S03 E02 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10757.mkv
+#EXTINF:0,Stranger Things S03 E03 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10758.mkv
+#EXTINF:0,Stranger Things S03 E04 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10759.mkv
+#EXTINF:0,Stranger Things S03 E05 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10760.mkv
+#EXTINF:0,Stranger Things S03 E06 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10761.mkv
+#EXTINF:0,Stranger Things S03 E07 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10762.mkv
+#EXTINF:0,Stranger Things S03 E08 
+#EXTGRP:STRANGER THINGS
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10763.mkv
 #EXTINF:0,Superman y Lois S01 E01 
 #EXTGRP:SUPERMAN Y LOIS
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/44908.mkv
@@ -452,6 +2123,48 @@ http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40781.mkv
 #EXTINF:0,The Mandalorian S02 E08 
 #EXTGRP:THE MANDALORIAN
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/40834.mkv
+#EXTINF:0,The Rain S01 E01 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11380.mkv
+#EXTINF:0,The Rain S01 E02 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11381.mkv
+#EXTINF:0,The Rain S01 E03 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11382.mkv
+#EXTINF:0,The Rain S01 E04 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11383.mkv
+#EXTINF:0,The Rain S01 E05 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11384.mkv
+#EXTINF:0,The Rain S01 E06 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11385.mkv
+#EXTINF:0,The Rain S01 E07 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11386.mkv
+#EXTINF:0,The Rain S01 E08 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11387.mkv
+#EXTINF:0,The Rain S02 E01 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11388.mkv
+#EXTINF:0,The Rain S02 E02 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11389.mkv
+#EXTINF:0,The Rain S02 E03 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11390.mkv
+#EXTINF:0,The Rain S02 E04 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11391.mkv
+#EXTINF:0,The Rain S02 E05 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11392.mkv
+#EXTINF:0,The Rain S02 E06 
+#EXTGRP:THE RAIN
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11393.mkv
 #EXTINF:0,The Stand S01 E01 
 #EXTGRP:THE STAND
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/41478.mkv
@@ -1421,6 +3134,339 @@ http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/42114.mkv
 #EXTINF:0,WandaVision S01 E09 
 #EXTGRP:WANDAVISION
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/42412.mkv
+#EXTINF:0,SEAL Team S01 E01 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10054.mp4
+#EXTINF:0,SEAL Team S01 E02 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10055.mp4
+#EXTINF:0,SEAL Team S01 E03 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10056.mp4
+#EXTINF:0,SEAL Team S01 E04 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10057.mkv
+#EXTINF:0,SEAL Team S01 E05 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10058.mkv
+#EXTINF:0,SEAL Team S01 E06 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10059.mkv
+#EXTINF:0,SEAL Team S01 E07 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10060.mkv
+#EXTINF:0,SEAL Team S01 E08 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10061.mkv
+#EXTINF:0,SEAL Team S01 E09 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10062.mkv
+#EXTINF:0,SEAL Team S01 E10 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10063.mkv
+#EXTINF:0,SEAL Team S01 E11 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10064.mkv
+#EXTINF:0,SEAL Team S01 E12 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10065.mkv
+#EXTINF:0,SEAL Team S01 E13 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10066.mkv
+#EXTINF:0,SEAL Team S01 E14 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10067.mkv
+#EXTINF:0,SEAL Team S01 E15 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10068.mkv
+#EXTINF:0,SEAL Team S01 E16 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10069.mkv
+#EXTINF:0,SEAL Team S01 E17 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10070.mkv
+#EXTINF:0,SEAL Team S01 E18 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10071.mkv
+#EXTINF:0,SEAL Team S01 E19 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10072.mkv
+#EXTINF:0,SEAL Team S01 E20 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10073.mkv
+#EXTINF:0,SEAL Team S01 E21 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10074.mkv
+#EXTINF:0,SEAL Team S01 E22 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10075.mkv
+#EXTINF:0,SEAL Team S02 E01 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10076.mp4
+#EXTINF:0,SEAL Team S02 E02 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10077.mp4
+#EXTINF:0,SEAL Team S02 E03 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10078.mp4
+#EXTINF:0,SEAL Team S02 E04 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10079.mkv
+#EXTINF:0,SEAL Team S02 E05 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10080.mkv
+#EXTINF:0,SEAL Team S02 E06 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10081.mkv
+#EXTINF:0,SEAL Team S02 E07 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10082.mkv
+#EXTINF:0,SEAL Team S02 E08 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10083.avi
+#EXTINF:0,SEAL Team S02 E09 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10084.mkv
+#EXTINF:0,SEAL Team S02 E10 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10085.mkv
+#EXTINF:0,SEAL Team S02 E11 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10086.mkv
+#EXTINF:0,SEAL Team S02 E12 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10087.mkv
+#EXTINF:0,SEAL Team S02 E13 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10088.mkv
+#EXTINF:0,SEAL Team S02 E14 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10089.mkv
+#EXTINF:0,SEAL Team S02 E15 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26843.mkv
+#EXTINF:0,SEAL Team S02 E16 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26844.mp4
+#EXTINF:0,SEAL Team S02 E17 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26845.mp4
+#EXTINF:0,SEAL Team S02 E18 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26846.mkv
+#EXTINF:0,SEAL Team S02 E19 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26847.mp4
+#EXTINF:0,SEAL Team S02 E20 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26848.mp4
+#EXTINF:0,SEAL Team S02 E21 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26849.mp4
+#EXTINF:0,SEAL Team S02 E22 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26850.mp4
+#EXTINF:0,SEAL Team S03 E01 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26851.mp4
+#EXTINF:0,SEAL Team S03 E02 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26852.mkv
+#EXTINF:0,SEAL Team S03 E03 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26853.mkv
+#EXTINF:0,SEAL Team S03 E04 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26854.mkv
+#EXTINF:0,SEAL Team S03 E05 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26855.mp4
+#EXTINF:0,SEAL Team S03 E06 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26856.mkv
+#EXTINF:0,SEAL Team S03 E07 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26857.mkv
+#EXTINF:0,SEAL Team S03 E08 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26858.mkv
+#EXTINF:0,SEAL Team S03 E09 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26859.mkv
+#EXTINF:0,SEAL Team S03 E10 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26860.mkv
+#EXTINF:0,SEAL Team S03 E11 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26861.mkv
+#EXTINF:0,SEAL Team S03 E12 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26862.mkv
+#EXTINF:0,SEAL Team S03 E13 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26863.mkv
+#EXTINF:0,Hakan el protector S01 E01 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11344.mp4
+#EXTINF:0,Hakan el protector S01 E02 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11345.mp4
+#EXTINF:0,Hakan el protector S01 E03 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11346.mp4
+#EXTINF:0,Hakan el protector S01 E04 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11347.mp4
+#EXTINF:0,Hakan el protector S01 E05 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11348.mp4
+#EXTINF:0,Hakan el protector S01 E06 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11349.mp4
+#EXTINF:0,Hakan el protector S01 E07 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11350.mp4
+#EXTINF:0,Hakan el protector S01 E08 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11351.mp4
+#EXTINF:0,Hakan el protector S01 E09 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11352.mp4
+#EXTINF:0,Hakan el protector S01 E10 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11353.mp4
+#EXTINF:0,Hakan el protector S02 E01 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51490.mkv
+#EXTINF:0,Hakan el protector S02 E02 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51491.mkv
+#EXTINF:0,Hakan el protector S02 E03 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51492.mkv
+#EXTINF:0,Hakan el protector S02 E04 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51493.mkv
+#EXTINF:0,Hakan el protector S02 E05 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51494.mkv
+#EXTINF:0,Hakan el protector S02 E06 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51495.mkv
+#EXTINF:0,Hakan el protector S02 E07 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51496.mkv
+#EXTINF:0,Hakan el protector S02 E08 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51497.mkv
+#EXTINF:0,Hakan el protector S03 E01 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51498.mkv
+#EXTINF:0,Hakan el protector S03 E02 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51499.mkv
+#EXTINF:0,Hakan el protector S03 E03 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51500.mkv
+#EXTINF:0,Hakan el protector S03 E04 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51501.mkv
+#EXTINF:0,Hakan el protector S03 E05 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51502.mkv
+#EXTINF:0,Hakan el protector S03 E06 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51503.mkv
+#EXTINF:0,Hakan el protector S03 E07 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51504.mkv
+#EXTINF:0,Hakan el protector S04 E01 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51505.mkv
+#EXTINF:0,Hakan el protector S04 E02 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51506.mkv
+#EXTINF:0,Hakan el protector S04 E03 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51507.mkv
+#EXTINF:0,Hakan el protector S04 E04 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51508.mkv
+#EXTINF:0,Hakan el protector S04 E05 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51509.mkv
+#EXTINF:0,Hakan el protector S04 E06 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51510.mkv
+#EXTINF:0,Hakan el protector S04 E07 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/51511.mkv
+#EXTINF:0,Walter  Carlo S01 E01 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11938.mkv
+#EXTINF:0,Walter  Carlo S01 E02 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11939.mkv
+#EXTINF:0,Walter  Carlo S01 E03 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11940.mkv
+#EXTINF:0,Walter  Carlo S01 E04 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11941.mkv
+#EXTINF:0,Walter  Carlo S01 E05 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11942.mkv
+#EXTINF:0,Walter  Carlo S01 E06 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11943.mkv
+#EXTINF:0,Walter  Carlo S01 E07 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11944.mkv
+#EXTINF:0,Walter  Carlo S01 E08 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11945.mkv
+#EXTINF:0,Walter  Carlo S01 E09 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11946.mkv
+#EXTINF:0,Walter  Carlo S01 E10 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11947.mkv
+#EXTINF:0,Walter  Carlo S01 E11 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11948.mkv
+#EXTINF:0,Walter  Carlo S01 E12 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11949.mkv
+#EXTINF:0,Clase letal S01 E01 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12761.mkv
+#EXTINF:0,Clase letal S01 E02 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12762.mkv
+#EXTINF:0,Clase letal S01 E03 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12763.mkv
+#EXTINF:0,Clase letal S01 E04 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12764.mkv
+#EXTINF:0,Clase letal S01 E05 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12765.mkv
+#EXTINF:0,Clase letal S01 E06 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12766.mkv
+#EXTINF:0,Clase letal S01 E07 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12767.mkv
+#EXTINF:0,Clase letal S01 E08 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12768.mkv
+#EXTINF:0,Clase letal S01 E09 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12769.mkv
+#EXTINF:0,Clase letal S01 E10 
+#EXTGRP:SERIES ACCION
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12770.mkv
 #EXTINF:0,El coche fantastico S01 E01 
 #EXTGRP:SERIES ACCION
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/13204.mp4
@@ -2282,6 +4328,1227 @@ http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55649.mkv
 #EXTINF:0,Walker S01 E18 
 #EXTGRP:SERIES ACCION
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/55650.mkv
+#EXTINF:0,Grimm S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6558.mkv
+#EXTINF:0,Grimm S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6559.mkv
+#EXTINF:0,Grimm S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6560.mkv
+#EXTINF:0,Grimm S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6561.mkv
+#EXTINF:0,Grimm S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6562.mkv
+#EXTINF:0,Grimm S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6563.mkv
+#EXTINF:0,Grimm S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6564.mkv
+#EXTINF:0,Grimm S01 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6565.mkv
+#EXTINF:0,Grimm S01 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6566.mkv
+#EXTINF:0,Grimm S01 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6567.mkv
+#EXTINF:0,Grimm S01 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6568.mkv
+#EXTINF:0,Grimm S01 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6569.mkv
+#EXTINF:0,Grimm S01 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6570.mkv
+#EXTINF:0,Grimm S01 E14 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6571.mkv
+#EXTINF:0,Grimm S01 E15 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6572.mkv
+#EXTINF:0,Grimm S01 E16 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6573.mkv
+#EXTINF:0,Grimm S01 E17 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6574.mkv
+#EXTINF:0,Grimm S01 E18 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6575.mkv
+#EXTINF:0,Grimm S01 E19 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6576.mkv
+#EXTINF:0,Grimm S01 E20 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6577.mkv
+#EXTINF:0,Grimm S01 E21 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6578.mkv
+#EXTINF:0,Grimm S01 E22 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6579.mkv
+#EXTINF:0,Grimm S02 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6580.mkv
+#EXTINF:0,Grimm S02 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6581.mkv
+#EXTINF:0,Grimm S02 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6582.mkv
+#EXTINF:0,Grimm S02 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6583.mkv
+#EXTINF:0,Grimm S02 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6584.mkv
+#EXTINF:0,Grimm S02 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6585.mkv
+#EXTINF:0,Grimm S02 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6586.mkv
+#EXTINF:0,Grimm S02 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6587.mkv
+#EXTINF:0,Grimm S02 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6588.mkv
+#EXTINF:0,Grimm S02 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6589.mkv
+#EXTINF:0,Grimm S02 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6590.mkv
+#EXTINF:0,Grimm S02 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6591.mkv
+#EXTINF:0,Grimm S02 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6592.mkv
+#EXTINF:0,Grimm S02 E14 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6593.mkv
+#EXTINF:0,Grimm S02 E15 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6594.mkv
+#EXTINF:0,Grimm S02 E16 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6595.mkv
+#EXTINF:0,Grimm S02 E17 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6596.mkv
+#EXTINF:0,Grimm S02 E18 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6597.mkv
+#EXTINF:0,Grimm S02 E19 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6598.mkv
+#EXTINF:0,Grimm S02 E20 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6599.mkv
+#EXTINF:0,Grimm S02 E21 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6600.mkv
+#EXTINF:0,Grimm S02 E22 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6601.mkv
+#EXTINF:0,Grimm S03 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6602.mkv
+#EXTINF:0,Grimm S03 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6603.mkv
+#EXTINF:0,Grimm S03 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6604.mkv
+#EXTINF:0,Grimm S03 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6605.mkv
+#EXTINF:0,Grimm S03 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6606.mkv
+#EXTINF:0,Grimm S03 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6607.mkv
+#EXTINF:0,Grimm S03 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6608.mkv
+#EXTINF:0,Grimm S03 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6609.mkv
+#EXTINF:0,Grimm S03 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6610.mkv
+#EXTINF:0,Grimm S03 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6611.mkv
+#EXTINF:0,Grimm S03 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6612.mkv
+#EXTINF:0,Grimm S03 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6613.mkv
+#EXTINF:0,Grimm S03 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6614.mkv
+#EXTINF:0,Grimm S03 E14 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6615.mkv
+#EXTINF:0,Grimm S03 E15 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6616.mkv
+#EXTINF:0,Grimm S03 E16 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6617.mkv
+#EXTINF:0,Grimm S03 E17 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6618.mkv
+#EXTINF:0,Grimm S03 E18 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6619.mkv
+#EXTINF:0,Grimm S03 E19 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6620.mkv
+#EXTINF:0,Grimm S03 E20 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6621.mkv
+#EXTINF:0,Grimm S03 E21 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6622.mkv
+#EXTINF:0,Grimm S03 E22 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6623.mkv
+#EXTINF:0,Grimm S04 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6624.mkv
+#EXTINF:0,Grimm S04 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6625.mkv
+#EXTINF:0,Grimm S04 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6626.mkv
+#EXTINF:0,Grimm S04 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6627.mkv
+#EXTINF:0,Grimm S04 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6628.mkv
+#EXTINF:0,Grimm S04 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6629.mkv
+#EXTINF:0,Grimm S04 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6630.mkv
+#EXTINF:0,Grimm S04 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6631.mkv
+#EXTINF:0,Grimm S04 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6632.mkv
+#EXTINF:0,Grimm S04 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6633.mkv
+#EXTINF:0,Grimm S04 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6634.mkv
+#EXTINF:0,Grimm S04 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6635.mkv
+#EXTINF:0,Grimm S04 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6636.mkv
+#EXTINF:0,Grimm S04 E14 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6637.mkv
+#EXTINF:0,Grimm S04 E15 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6638.mkv
+#EXTINF:0,Grimm S04 E16 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6639.mkv
+#EXTINF:0,Grimm S04 E17 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6640.mkv
+#EXTINF:0,Grimm S04 E18 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6641.mkv
+#EXTINF:0,Grimm S04 E19 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6642.mkv
+#EXTINF:0,Grimm S04 E20 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6643.mkv
+#EXTINF:0,Grimm S04 E21 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6644.mkv
+#EXTINF:0,Grimm S04 E22 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6645.mkv
+#EXTINF:0,Grimm S05 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6646.mkv
+#EXTINF:0,Grimm S05 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6647.mkv
+#EXTINF:0,Grimm S05 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6648.mkv
+#EXTINF:0,Grimm S05 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6649.mkv
+#EXTINF:0,Grimm S05 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6650.mkv
+#EXTINF:0,Grimm S05 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6651.mkv
+#EXTINF:0,Grimm S05 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6652.mkv
+#EXTINF:0,Grimm S05 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6653.mkv
+#EXTINF:0,Grimm S05 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6654.mkv
+#EXTINF:0,Grimm S05 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6655.mkv
+#EXTINF:0,Grimm S05 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6656.mkv
+#EXTINF:0,Grimm S05 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6657.mkv
+#EXTINF:0,Grimm S05 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6658.mkv
+#EXTINF:0,Grimm S05 E14 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6659.mkv
+#EXTINF:0,Grimm S05 E15 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6660.mkv
+#EXTINF:0,Grimm S05 E16 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6661.mkv
+#EXTINF:0,Grimm S05 E17 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6662.mkv
+#EXTINF:0,Grimm S05 E18 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6663.mkv
+#EXTINF:0,Grimm S05 E19 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6664.mkv
+#EXTINF:0,Grimm S05 E20 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6665.mkv
+#EXTINF:0,Grimm S05 E21 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6666.mkv
+#EXTINF:0,Grimm S05 E22 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6667.mkv
+#EXTINF:0,Grimm S06 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6668.mkv
+#EXTINF:0,Grimm S06 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6669.mkv
+#EXTINF:0,Grimm S06 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6670.mkv
+#EXTINF:0,Grimm S06 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6671.mkv
+#EXTINF:0,Grimm S06 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6672.mkv
+#EXTINF:0,Grimm S06 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6673.mkv
+#EXTINF:0,Grimm S06 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6674.mkv
+#EXTINF:0,Grimm S06 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6675.mkv
+#EXTINF:0,Grimm S06 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6676.mkv
+#EXTINF:0,Grimm S06 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6677.mkv
+#EXTINF:0,Grimm S06 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6678.mkv
+#EXTINF:0,Grimm S06 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6679.mkv
+#EXTINF:0,Grimm S06 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6680.mkv
+#EXTINF:0,La orden S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7116.mkv
+#EXTINF:0,La orden S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7117.mkv
+#EXTINF:0,La orden S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7118.mkv
+#EXTINF:0,La orden S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7119.mkv
+#EXTINF:0,La orden S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7120.mkv
+#EXTINF:0,La orden S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7121.mkv
+#EXTINF:0,La orden S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7122.mkv
+#EXTINF:0,La orden S01 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7123.mkv
+#EXTINF:0,La orden S01 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7124.mkv
+#EXTINF:0,La orden S01 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7125.mkv
+#EXTINF:0,Legacies S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7757.mkv
+#EXTINF:0,Legacies S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7756.mkv
+#EXTINF:0,Legacies S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/7758.mkv
+#EXTINF:0,Legacies S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25884.mkv
+#EXTINF:0,Legacies S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25885.mkv
+#EXTINF:0,Legacies S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25886.mkv
+#EXTINF:0,Legacies S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25887.mkv
+#EXTINF:0,Legacies S01 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25888.mkv
+#EXTINF:0,Legacies S01 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25889.mkv
+#EXTINF:0,Legacies S01 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25890.mkv
+#EXTINF:0,Legacies S01 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25891.mkv
+#EXTINF:0,Legacies S01 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25892.mkv
+#EXTINF:0,Legacies S01 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25893.mkv
+#EXTINF:0,Legacies S01 E14 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25894.mkv
+#EXTINF:0,Legacies S01 E15 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25895.mkv
+#EXTINF:0,Legacies S01 E16 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25896.mkv
+#EXTINF:0,Legacies S02 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25897.mkv
+#EXTINF:0,Legacies S02 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25898.mkv
+#EXTINF:0,Legacies S02 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25899.mkv
+#EXTINF:0,Legacies S02 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25900.mkv
+#EXTINF:0,Legacies S02 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25901.mkv
+#EXTINF:0,Legacies S02 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25902.mkv
+#EXTINF:0,Legacies S02 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25903.mkv
+#EXTINF:0,Legacies S02 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25904.mkv
+#EXTINF:0,Legacies S02 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25905.mkv
+#EXTINF:0,Legacies S02 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25906.mkv
+#EXTINF:0,Legacies S02 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25907.mkv
+#EXTINF:0,Legacies S02 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25908.mkv
+#EXTINF:0,Legacies S02 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/25909.mkv
+#EXTINF:0,Legacies S02 E14 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29083.mp4
+#EXTINF:0,Legacies S02 E15 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29084.mkv
+#EXTINF:0,Legacies S02 E16 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29085.mp4
+#EXTINF:0,Marte S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8590.mkv
+#EXTINF:0,Marte S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8591.mp4
+#EXTINF:0,Marte S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8592.mp4
+#EXTINF:0,Marte S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8593.mp4
+#EXTINF:0,Marte S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8594.mkv
+#EXTINF:0,Marte S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8595.mkv
+#EXTINF:0,Marte S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8596.mkv
+#EXTINF:0,Marte S02 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26887.mkv
+#EXTINF:0,Marte S02 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26888.mkv
+#EXTINF:0,Marte S02 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26889.mkv
+#EXTINF:0,Marte S02 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26890.mkv
+#EXTINF:0,Marte S02 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26891.mkv
+#EXTINF:0,Marte S02 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26892.mkv
+#EXTINF:0,Osmosis S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8759.mkv
+#EXTINF:0,Osmosis S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8760.mkv
+#EXTINF:0,Osmosis S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8761.mkv
+#EXTINF:0,Osmosis S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8762.mkv
+#EXTINF:0,Osmosis S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8763.mkv
+#EXTINF:0,Osmosis S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8764.mkv
+#EXTINF:0,Osmosis S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8765.mkv
+#EXTINF:0,Osmosis S01 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8766.mkv
+#EXTINF:0,Outlander S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8767.mkv
+#EXTINF:0,Outlander S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8768.mkv
+#EXTINF:0,Outlander S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8769.mkv
+#EXTINF:0,Outlander S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8770.mkv
+#EXTINF:0,Outlander S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8771.mkv
+#EXTINF:0,Outlander S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8772.mkv
+#EXTINF:0,Outlander S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8773.mkv
+#EXTINF:0,Outlander S01 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8774.mkv
+#EXTINF:0,Outlander S01 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8775.mkv
+#EXTINF:0,Outlander S01 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8776.mkv
+#EXTINF:0,Outlander S01 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8777.mkv
+#EXTINF:0,Outlander S01 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8778.mkv
+#EXTINF:0,Outlander S01 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8779.mkv
+#EXTINF:0,Outlander S01 E14 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8780.mkv
+#EXTINF:0,Outlander S01 E15 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8781.mkv
+#EXTINF:0,Outlander S01 E16 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8782.mkv
+#EXTINF:0,Outlander S02 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8783.mkv
+#EXTINF:0,Outlander S02 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8784.mkv
+#EXTINF:0,Outlander S02 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8785.mkv
+#EXTINF:0,Outlander S02 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8786.mkv
+#EXTINF:0,Outlander S02 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8787.mkv
+#EXTINF:0,Outlander S02 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8788.mkv
+#EXTINF:0,Outlander S02 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8789.mkv
+#EXTINF:0,Outlander S02 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8790.mkv
+#EXTINF:0,Outlander S02 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8791.mkv
+#EXTINF:0,Outlander S02 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8792.mkv
+#EXTINF:0,Outlander S02 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8793.mkv
+#EXTINF:0,Outlander S02 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8794.mkv
+#EXTINF:0,Outlander S02 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8795.mkv
+#EXTINF:0,Outlander S03 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8796.mkv
+#EXTINF:0,Outlander S03 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8797.mkv
+#EXTINF:0,Outlander S03 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8798.mkv
+#EXTINF:0,Outlander S03 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8799.mkv
+#EXTINF:0,Outlander S03 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8800.mkv
+#EXTINF:0,Outlander S03 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8801.mkv
+#EXTINF:0,Outlander S03 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8802.mkv
+#EXTINF:0,Outlander S03 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8803.mkv
+#EXTINF:0,Outlander S03 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8804.mkv
+#EXTINF:0,Outlander S03 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8805.mkv
+#EXTINF:0,Outlander S03 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8806.mkv
+#EXTINF:0,Outlander S03 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8807.mkv
+#EXTINF:0,Outlander S03 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8808.mkv
+#EXTINF:0,Outlander S04 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8809.mkv
+#EXTINF:0,Outlander S04 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8810.mkv
+#EXTINF:0,Outlander S04 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8811.mkv
+#EXTINF:0,Outlander S04 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8812.mkv
+#EXTINF:0,Outlander S04 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8813.mkv
+#EXTINF:0,Outlander S04 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8814.mkv
+#EXTINF:0,Outlander S04 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8815.mkv
+#EXTINF:0,Outlander S04 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8816.mkv
+#EXTINF:0,Outlander S04 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8817.mkv
+#EXTINF:0,Outlander S04 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8818.mkv
+#EXTINF:0,Outlander S04 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8819.mkv
+#EXTINF:0,Outlander S04 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8820.mkv
+#EXTINF:0,Outlander S04 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/8821.mkv
+#EXTINF:0,Outlander S05 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26882.mkv
+#EXTINF:0,Outlander S05 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26883.mkv
+#EXTINF:0,Outlander S05 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26884.mkv
+#EXTINF:0,Outlander S05 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26885.mkv
+#EXTINF:0,Outlander S05 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/26886.mkv
+#EXTINF:0,Outlander S05 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29104.mp4
+#EXTINF:0,Outlander S05 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29103.mp4
+#EXTINF:0,Outlander S05 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29101.mp4
+#EXTINF:0,Outlander S05 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29105.mkv
+#EXTINF:0,Outlander S05 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29099.mp4
+#EXTINF:0,Outlander S05 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29100.mp4
+#EXTINF:0,Outlander S05 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29102.mp4
+#EXTINF:0,Roswell New Mexico S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10041.mkv
+#EXTINF:0,Roswell New Mexico S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10042.mkv
+#EXTINF:0,Roswell New Mexico S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10043.mkv
+#EXTINF:0,Roswell New Mexico S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10044.mkv
+#EXTINF:0,Roswell New Mexico S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10045.mkv
+#EXTINF:0,Roswell New Mexico S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10046.mkv
+#EXTINF:0,Roswell New Mexico S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10047.mkv
+#EXTINF:0,Roswell New Mexico S01 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10048.mkv
+#EXTINF:0,Roswell New Mexico S01 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10049.mkv
+#EXTINF:0,Roswell New Mexico S01 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10050.mkv
+#EXTINF:0,Roswell New Mexico S01 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10051.mkv
+#EXTINF:0,Roswell New Mexico S01 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10052.mkv
+#EXTINF:0,Roswell New Mexico S01 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10053.mkv
+#EXTINF:0,Roswell New Mexico S02 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29116.mkv
+#EXTINF:0,Roswell New Mexico S02 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29111.mkv
+#EXTINF:0,Roswell New Mexico S02 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29112.mkv
+#EXTINF:0,Roswell New Mexico S02 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29113.mkv
+#EXTINF:0,Roswell New Mexico S02 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29106.mp4
+#EXTINF:0,Roswell New Mexico S02 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29109.mp4
+#EXTINF:0,Roswell New Mexico S02 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29107.mp4
+#EXTINF:0,Roswell New Mexico S02 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29114.mkv
+#EXTINF:0,Roswell New Mexico S02 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29110.mkv
+#EXTINF:0,Roswell New Mexico S02 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29115.mkv
+#EXTINF:0,Roswell New Mexico S02 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29108.mp4
+#EXTINF:0,Roswell New Mexico S02 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29117.mp4
+#EXTINF:0,Siren S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10559.mkv
+#EXTINF:0,Siren S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10560.mkv
+#EXTINF:0,Siren S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10561.mkv
+#EXTINF:0,Siren S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10562.mkv
+#EXTINF:0,Siren S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10563.mkv
+#EXTINF:0,Siren S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10564.mkv
+#EXTINF:0,Siren S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10565.mkv
+#EXTINF:0,Siren S01 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10566.mkv
+#EXTINF:0,Siren S01 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10567.mkv
+#EXTINF:0,Siren S01 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/10568.mkv
+#EXTINF:0,Siren S02 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29124.mkv
+#EXTINF:0,Siren S02 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29118.mkv
+#EXTINF:0,Siren S02 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29119.mkv
+#EXTINF:0,Siren S02 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29125.mkv
+#EXTINF:0,Siren S02 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29126.mkv
+#EXTINF:0,Siren S02 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29127.mkv
+#EXTINF:0,Siren S02 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29128.mkv
+#EXTINF:0,Siren S02 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29129.mkv
+#EXTINF:0,Siren S02 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29130.mkv
+#EXTINF:0,Siren S02 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29131.mkv
+#EXTINF:0,Siren S02 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29120.mkv
+#EXTINF:0,Siren S02 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29121.mkv
+#EXTINF:0,Siren S02 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29122.mkv
+#EXTINF:0,Siren S02 E14 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29123.mkv
+#EXTINF:0,Siren S02 E15 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29132.mkv
+#EXTINF:0,Siren S02 E16 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29133.mkv
+#EXTINF:0,Siren S03 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29139.mkv
+#EXTINF:0,Siren S03 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29140.mkv
+#EXTINF:0,Siren S03 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29134.mp4
+#EXTINF:0,Siren S03 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29135.mp4
+#EXTINF:0,Siren S03 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29136.mp4
+#EXTINF:0,Siren S03 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29141.mkv
+#EXTINF:0,Siren S03 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29142.mkv
+#EXTINF:0,Siren S03 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29137.mp4
+#EXTINF:0,Siren S03 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29138.mkv
+#EXTINF:0,Siren S03 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29143.mp4
+#EXTINF:0,El exorcista S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11172.mkv
+#EXTINF:0,El exorcista S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11173.mkv
+#EXTINF:0,El exorcista S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11174.mkv
+#EXTINF:0,El exorcista S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11175.mkv
+#EXTINF:0,El exorcista S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11176.mkv
+#EXTINF:0,El exorcista S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11177.mkv
+#EXTINF:0,El exorcista S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11178.mkv
+#EXTINF:0,El exorcista S01 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11179.mkv
+#EXTINF:0,El exorcista S01 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11180.mkv
+#EXTINF:0,El exorcista S01 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11181.mkv
+#EXTINF:0,El exorcista S02 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11182.mkv
+#EXTINF:0,El exorcista S02 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11183.mkv
+#EXTINF:0,El exorcista S02 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11184.mkv
+#EXTINF:0,El exorcista S02 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11185.mkv
+#EXTINF:0,El exorcista S02 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11186.mkv
+#EXTINF:0,El exorcista S02 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11187.mkv
+#EXTINF:0,El exorcista S02 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11188.mkv
+#EXTINF:0,El exorcista S02 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11189.mkv
+#EXTINF:0,El exorcista S02 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11190.mkv
+#EXTINF:0,El exorcista S02 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11191.mkv
+#EXTINF:0,The Society S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11394.mp4
+#EXTINF:0,The Society S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11395.mp4
+#EXTINF:0,The Society S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11396.mp4
+#EXTINF:0,The Society S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11397.mp4
+#EXTINF:0,The Society S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11398.mp4
+#EXTINF:0,The Society S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11399.mp4
+#EXTINF:0,The Society S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11400.mp4
+#EXTINF:0,The Society S01 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11401.mp4
+#EXTINF:0,The Society S01 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11402.mp4
+#EXTINF:0,The Society S01 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11403.mp4
+#EXTINF:0,3 PLUS S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11482.mkv
+#EXTINF:0,3 PLUS S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11483.mkv
+#EXTINF:0,3 PLUS S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11484.mkv
+#EXTINF:0,3 PLUS S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11485.mkv
+#EXTINF:0,3 PLUS S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11486.mkv
+#EXTINF:0,3 PLUS S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11487.mkv
+#EXTINF:0,3 PLUS S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11488.mkv
+#EXTINF:0,3 PLUS S01 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11489.mkv
+#EXTINF:0,3 PLUS S02 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11490.mkv
+#EXTINF:0,3 PLUS S02 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11491.mkv
+#EXTINF:0,3 PLUS S02 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11492.mkv
+#EXTINF:0,3 PLUS S02 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11493.mkv
+#EXTINF:0,3 PLUS S02 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11494.mkv
+#EXTINF:0,3 PLUS S02 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11495.mkv
+#EXTINF:0,3 PLUS S02 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11496.mkv
+#EXTINF:0,3 PLUS S02 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11497.mkv
+#EXTINF:0,3 PLUS S02 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11498.mkv
+#EXTINF:0,3 PLUS S02 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11499.mkv
+#EXTINF:0,3 PLUS S03 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22299.mkv
+#EXTINF:0,3 PLUS S03 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22300.mkv
+#EXTINF:0,3 PLUS S03 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22301.mkv
+#EXTINF:0,3 PLUS S03 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22302.mkv
+#EXTINF:0,3 PLUS S03 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22303.mkv
+#EXTINF:0,3 PLUS S03 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22304.mkv
+#EXTINF:0,3 PLUS S03 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22305.mkv
+#EXTINF:0,3 PLUS S03 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/22306.mkv
+#EXTINF:0,Black Mirror S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11613.mkv
+#EXTINF:0,Black Mirror S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11614.mkv
+#EXTINF:0,Black Mirror S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11615.mkv
+#EXTINF:0,Black Mirror S02 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11616.mkv
+#EXTINF:0,Black Mirror S02 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11617.mkv
+#EXTINF:0,Black Mirror S02 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11618.mkv
+#EXTINF:0,Black Mirror S03 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11619.mkv
+#EXTINF:0,Black Mirror S03 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11620.mkv
+#EXTINF:0,Black Mirror S03 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11621.mkv
+#EXTINF:0,Black Mirror S03 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11622.mkv
+#EXTINF:0,Black Mirror S03 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11623.mkv
+#EXTINF:0,Black Mirror S03 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11624.mkv
+#EXTINF:0,Black Mirror S03 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11625.mkv
+#EXTINF:0,Black Mirror S04 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11626.mkv
+#EXTINF:0,Black Mirror S04 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11627.mkv
+#EXTINF:0,Black Mirror S04 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11628.mkv
+#EXTINF:0,Black Mirror S04 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11629.mkv
+#EXTINF:0,Black Mirror S04 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11630.mkv
+#EXTINF:0,Black Mirror S04 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/11631.mkv
+#EXTINF:0,Black Mirror S05 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29144.mkv
+#EXTINF:0,Black Mirror S05 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29145.mkv
+#EXTINF:0,Black Mirror S05 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29146.mkv
+#EXTINF:0,La Patrulla Condenada S01 E01 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12949.mkv
+#EXTINF:0,La Patrulla Condenada S01 E02 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12950.mkv
+#EXTINF:0,La Patrulla Condenada S01 E03 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12951.mkv
+#EXTINF:0,La Patrulla Condenada S01 E04 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12952.mkv
+#EXTINF:0,La Patrulla Condenada S01 E05 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12953.mkv
+#EXTINF:0,La Patrulla Condenada S01 E06 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12954.mkv
+#EXTINF:0,La Patrulla Condenada S01 E07 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12955.mkv
+#EXTINF:0,La Patrulla Condenada S01 E08 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12956.mkv
+#EXTINF:0,La Patrulla Condenada S01 E09 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12957.mkv
+#EXTINF:0,La Patrulla Condenada S01 E10 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12958.mkv
+#EXTINF:0,La Patrulla Condenada S01 E11 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12959.mkv
+#EXTINF:0,La Patrulla Condenada S01 E12 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12960.mkv
+#EXTINF:0,La Patrulla Condenada S01 E13 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12961.mkv
+#EXTINF:0,La Patrulla Condenada S01 E14 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12962.mkv
+#EXTINF:0,La Patrulla Condenada S01 E15 
+#EXTGRP:SERIES FICCION - FANTASIA
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12963.mkv
 #EXTINF:0,Good Omens S01 E01 
 #EXTGRP:SERIES FICCION - FANTASIA
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/14470.mkv
@@ -3335,6 +6602,237 @@ http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/59116.mkv
 #EXTINF:0,El Pacificador S01 E04 
 #EXTGRP:SERIES FICCION - FANTASIA
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/59117.mkv
+#EXTINF:0,Leyendas del Manana S01 E01 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12745.mkv
+#EXTINF:0,Leyendas del Manana S01 E02 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12746.mkv
+#EXTINF:0,Leyendas del Manana S01 E03 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12747.mkv
+#EXTINF:0,Leyendas del Manana S01 E04 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12748.mkv
+#EXTINF:0,Leyendas del Manana S01 E05 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12749.mkv
+#EXTINF:0,Leyendas del Manana S01 E06 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12750.mkv
+#EXTINF:0,Leyendas del Manana S01 E07 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12751.mkv
+#EXTINF:0,Leyendas del Manana S01 E08 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12752.mkv
+#EXTINF:0,Leyendas del Manana S01 E09 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12753.mkv
+#EXTINF:0,Leyendas del Manana S01 E10 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12754.mkv
+#EXTINF:0,Leyendas del Manana S01 E11 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12755.mkv
+#EXTINF:0,Leyendas del Manana S01 E12 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12756.mkv
+#EXTINF:0,Leyendas del Manana S01 E13 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12757.mkv
+#EXTINF:0,Leyendas del Manana S01 E14 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12758.mkv
+#EXTINF:0,Leyendas del Manana S01 E15 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12759.mkv
+#EXTINF:0,Leyendas del Manana S01 E16 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/12760.mkv
+#EXTINF:0,Leyendas del Manana S02 E01 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21579.mp4
+#EXTINF:0,Leyendas del Manana S02 E02 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21580.mp4
+#EXTINF:0,Leyendas del Manana S02 E03 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21581.mp4
+#EXTINF:0,Leyendas del Manana S02 E04 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21582.mp4
+#EXTINF:0,Leyendas del Manana S02 E05 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21583.mp4
+#EXTINF:0,Leyendas del Manana S02 E06 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21584.mp4
+#EXTINF:0,Leyendas del Manana S02 E07 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21585.mp4
+#EXTINF:0,Leyendas del Manana S02 E08 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21586.mp4
+#EXTINF:0,Leyendas del Manana S02 E09 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21587.mp4
+#EXTINF:0,Leyendas del Manana S02 E10 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21588.mp4
+#EXTINF:0,Leyendas del Manana S02 E11 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21589.mp4
+#EXTINF:0,Leyendas del Manana S02 E12 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21590.mp4
+#EXTINF:0,Leyendas del Manana S02 E13 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21591.mp4
+#EXTINF:0,Leyendas del Manana S02 E14 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21592.mp4
+#EXTINF:0,Leyendas del Manana S02 E15 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21593.mp4
+#EXTINF:0,Leyendas del Manana S02 E16 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21594.mp4
+#EXTINF:0,Leyendas del Manana S02 E17 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21595.mp4
+#EXTINF:0,Leyendas del Manana S03 E01 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21596.mkv
+#EXTINF:0,Leyendas del Manana S03 E02 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21597.mkv
+#EXTINF:0,Leyendas del Manana S03 E03 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21598.mkv
+#EXTINF:0,Leyendas del Manana S03 E04 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21599.mkv
+#EXTINF:0,Leyendas del Manana S03 E05 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21600.mkv
+#EXTINF:0,Leyendas del Manana S03 E06 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21601.mkv
+#EXTINF:0,Leyendas del Manana S03 E07 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21602.mkv
+#EXTINF:0,Leyendas del Manana S03 E08 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21603.mkv
+#EXTINF:0,Leyendas del Manana S03 E09 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21604.mkv
+#EXTINF:0,Leyendas del Manana S03 E10 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21605.mkv
+#EXTINF:0,Leyendas del Manana S03 E11 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21606.mkv
+#EXTINF:0,Leyendas del Manana S03 E12 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21607.mkv
+#EXTINF:0,Leyendas del Manana S03 E13 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21608.mkv
+#EXTINF:0,Leyendas del Manana S03 E14 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21609.mkv
+#EXTINF:0,Leyendas del Manana S03 E15 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21610.mkv
+#EXTINF:0,Leyendas del Manana S03 E16 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21611.mkv
+#EXTINF:0,Leyendas del Manana S03 E17 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21612.mkv
+#EXTINF:0,Leyendas del Manana S03 E18 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21613.mkv
+#EXTINF:0,Leyendas del Manana S04 E01 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21614.mp4
+#EXTINF:0,Leyendas del Manana S04 E02 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21615.mp4
+#EXTINF:0,Leyendas del Manana S04 E03 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21616.mp4
+#EXTINF:0,Leyendas del Manana S04 E04 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21617.mp4
+#EXTINF:0,Leyendas del Manana S04 E05 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21618.mp4
+#EXTINF:0,Leyendas del Manana S04 E06 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21619.mp4
+#EXTINF:0,Leyendas del Manana S04 E07 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21620.mp4
+#EXTINF:0,Leyendas del Manana S04 E08 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21621.mp4
+#EXTINF:0,Leyendas del Manana S04 E09 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21622.mp4
+#EXTINF:0,Leyendas del Manana S04 E10 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21623.mp4
+#EXTINF:0,Leyendas del Manana S04 E11 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21624.mp4
+#EXTINF:0,Leyendas del Manana S04 E12 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21625.mp4
+#EXTINF:0,Leyendas del Manana S04 E13 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21626.mp4
+#EXTINF:0,Leyendas del Manana S04 E14 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21627.mp4
+#EXTINF:0,Leyendas del Manana S04 E15 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21628.mp4
+#EXTINF:0,Leyendas del Manana S04 E16 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21629.mp4
+#EXTINF:0,Leyendas del Manana S05 E01 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29213.mkv
+#EXTINF:0,Leyendas del Manana S05 E02 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29214.mkv
+#EXTINF:0,Leyendas del Manana S05 E03 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29215.mkv
+#EXTINF:0,Leyendas del Manana S05 E04 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29216.mkv
+#EXTINF:0,Leyendas del Manana S05 E05 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29217.mkv
+#EXTINF:0,Leyendas del Manana S05 E06 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29218.mkv
+#EXTINF:0,Leyendas del Manana S05 E07 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29219.mkv
+#EXTINF:0,Leyendas del Manana S05 E08 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29220.mkv
+#EXTINF:0,Leyendas del Manana S05 E09 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29221.mkv
+#EXTINF:0,Leyendas del Manana S05 E10 
+#EXTGRP:SERIES SUPERHEROES
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29222.mkv
 #EXTINF:0,The Flash S01 E01 
 #EXTGRP:SERIES SUPERHEROES
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/21457.mkv
@@ -4232,6 +7730,36 @@ http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29244.mp4
 #EXTINF:0,Supergirl S05 E19 
 #EXTGRP:SERIES SUPERHEROES
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/29242.mp4
+#EXTINF:0,Homecoming S01 E01 
+#EXTGRP:SERIES TERROR - THRILLER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6816.mkv
+#EXTINF:0,Homecoming S01 E02 
+#EXTGRP:SERIES TERROR - THRILLER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6817.mkv
+#EXTINF:0,Homecoming S01 E03 
+#EXTGRP:SERIES TERROR - THRILLER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6818.mkv
+#EXTINF:0,Homecoming S01 E04 
+#EXTGRP:SERIES TERROR - THRILLER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6819.mkv
+#EXTINF:0,Homecoming S01 E05 
+#EXTGRP:SERIES TERROR - THRILLER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6820.mkv
+#EXTINF:0,Homecoming S01 E06 
+#EXTGRP:SERIES TERROR - THRILLER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6821.mkv
+#EXTINF:0,Homecoming S01 E07 
+#EXTGRP:SERIES TERROR - THRILLER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6822.mkv
+#EXTINF:0,Homecoming S01 E08 
+#EXTGRP:SERIES TERROR - THRILLER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6823.mkv
+#EXTINF:0,Homecoming S01 E09 
+#EXTGRP:SERIES TERROR - THRILLER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6824.mkv
+#EXTINF:0,Homecoming S01 E10 
+#EXTGRP:SERIES TERROR - THRILLER
+http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/6825.mkv
 #EXTINF:0,The Terror S01 E01 
 #EXTGRP:SERIES TERROR - THRILLER
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/14476.mkv
@@ -4382,6 +7910,72 @@ http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/56002.mkv
 #EXTINF:0,Sexy a lo bestia S01 E06 
 #EXTGRP:SERIES TERROR - THRILLER
 http://xdgo.live:8080/series/33_ndrscamilo_a/NJkcj5JLTX/56003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El misterio de Marilyn Monroe Las cintas ineditas (2022)" group-title="VOD ESTRENOS",El misterio de Marilyn Monroe Las cintas ineditas (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uncharted (2022)" group-title="VOD ESTRENOS",Uncharted (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virus-32 (2022)" group-title="VOD ESTRENOS",Virus-32 (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="365 dias Aquel dia (2022)" group-title="VOD ESTRENOS",365 dias Aquel dia (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aileen Wuornos American Boogeywoman (2021)" group-title="VOD ESTRENOS",Aileen Wuornos American Boogeywoman (2021)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ambulance Plan de Huida (2022)" group-title="VOD ESTRENOS",Ambulance Plan de Huida (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklight (2022)" group-title="VOD ESTRENOS",The Blacklight (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Burbuja (2022)" group-title="VOD ESTRENOS",La Burbuja (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bulldozer (2022)" group-title="VOD ESTRENOS",Bulldozer (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Explorer The Last Tepui (2022)" group-title="VOD ESTRENOS",Explorer The Last Tepui (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fortress Sniper's Eye (2022)" group-title="VOD ESTRENOS",Fortress Sniper's Eye (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fourth Grade (2021)" group-title="VOD ESTRENOS",Fourth Grade (2021)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Octava Clausula (2022)" group-title="VOD ESTRENOS",La Octava Clausula (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor de madre (2022)" group-title="VOD ESTRENOS",Amor de madre (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ouija Deadly Reunion (2021)" group-title="VOD ESTRENOS",Ouija Deadly Reunion (2021)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rumspringa (2022)" group-title="VOD ESTRENOS",Rumspringa (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El asedio de Silverton (2022)" group-title="VOD ESTRENOS",El asedio de Silverton (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Summoning Bloody Mary (2021)" group-title="VOD ESTRENOS",Summoning Bloody Mary (2021)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Biggest Little Farm The Return (2022)" group-title="VOD ESTRENOS",The Biggest Little Farm The Return (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo que conoces (2022)" group-title="VOD ESTRENOS",El diablo que conoces (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Medium - Menotti (2021)" group-title="VOD ESTRENOS",The Medium - Menotti (2021)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mystery of Her (2022)" group-title="VOD ESTRENOS",The Mystery of Her (2022)
+#EXTGRP:VFLIX ESTRENOS
+http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64743.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Batman (2022)" group-title="VOD ESTRENOS",The Batman (2022)
 #EXTGRP:VFLIX ESTRENOS
 http://xdgo.live:8080/movie/33_ndrscamilo_a/NJkcj5JLTX/64263.mkv
